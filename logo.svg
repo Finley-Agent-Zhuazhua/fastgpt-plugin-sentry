@@ -1,4 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
-  <rect width="64" height="64" rx="8" fill="#e0e7ff" />
-  <text x="32" y="40" text-anchor="middle" font-size="24" fill="#4338ca">?</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Sentry</title>
+  <rect width="64" height="64" rx="12" fill="#362D59"/>
+  <path d="M32 11c-5 0-9 3-11 8l-11 20h10l8-15c1-2 2-3 4-3s3 1 4 3l12 22h10L41 19c-2-5-5-8-9-8z" fill="#fff"/>
+  <path d="M15 43h10l4 7h20v7H25z" fill="#fff"/>
 </svg>
